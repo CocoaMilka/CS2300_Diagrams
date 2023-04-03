@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T15:38:26.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0" etag="mGQnrQNYEYShJMyfpjij" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T17:16:16.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0" etag="NtBJKGvUcWmB6xYmPn3h" version="21.1.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1122" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1314" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
         <mxCell id="1v2FTgTyUNevwh4QjTIY-16" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="1v2FTgTyUNevwh4QjTIY-15" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1v2FTgTyUNevwh4QjTIY-17" value="Commissions" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="1v2FTgTyUNevwh4QjTIY-17" value="Commissions &lt;br&gt;(owns)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v2FTgTyUNevwh4QjTIY-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1v2FTgTyUNevwh4QjTIY-17" target="X86R94kmiiRcQOmYGRlY-7" edge="1">
@@ -235,7 +235,7 @@
             <mxPoint x="630" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1v2FTgTyUNevwh4QjTIY-19" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="1v2FTgTyUNevwh4QjTIY-18" connectable="0" vertex="1">
+        <mxCell id="1v2FTgTyUNevwh4QjTIY-19" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="1v2FTgTyUNevwh4QjTIY-18" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint y="20" as="offset" />
           </mxGeometry>
